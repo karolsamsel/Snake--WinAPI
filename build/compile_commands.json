@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Code/Projects/Game Development/SnakeCpp/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\game\\src\\gameLogic.cpp.obj -c \"D:\\Code\\Projects\\Game Development\\SnakeCpp\\game\\src\\gameLogic.cpp\"",
+  "file": "D:/Code/Projects/Game Development/SnakeCpp/game/src/gameLogic.cpp",
+  "output": "CMakeFiles/main.dir/game/src/gameLogic.cpp.obj"
+},
+{
+  "directory": "D:/Code/Projects/Game Development/SnakeCpp/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\platform\\src\\gameWindowBuffer.cpp.obj -c \"D:\\Code\\Projects\\Game Development\\SnakeCpp\\platform\\src\\gameWindowBuffer.cpp\"",
+  "file": "D:/Code/Projects/Game Development/SnakeCpp/platform/src/gameWindowBuffer.cpp",
+  "output": "CMakeFiles/main.dir/platform/src/gameWindowBuffer.cpp.obj"
+},
+{
+  "directory": "D:/Code/Projects/Game Development/SnakeCpp/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\platform\\src\\input.cpp.obj -c \"D:\\Code\\Projects\\Game Development\\SnakeCpp\\platform\\src\\input.cpp\"",
+  "file": "D:/Code/Projects/Game Development/SnakeCpp/platform/src/input.cpp",
+  "output": "CMakeFiles/main.dir/platform/src/input.cpp.obj"
+},
+{
+  "directory": "D:/Code/Projects/Game Development/SnakeCpp/build",
+  "command": "C:\\PROGRA~2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\platform\\src\\main.cpp.obj -c \"D:\\Code\\Projects\\Game Development\\SnakeCpp\\platform\\src\\main.cpp\"",
+  "file": "D:/Code/Projects/Game Development/SnakeCpp/platform/src/main.cpp",
+  "output": "CMakeFiles/main.dir/platform/src/main.cpp.obj"
+}
+]
